@@ -1,0 +1,5 @@
+-- Following commands are used to set the config
+git config -list
+git config -global user.name "Sudhakar"
+git condig -global user.email "sudhakathodi@gmail.com"
+
